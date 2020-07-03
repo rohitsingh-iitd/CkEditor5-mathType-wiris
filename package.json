@@ -94,5 +94,8 @@
     "hooks": {
       "pre-commit": "lint-staged"
     }
+  },
+  "dependencies": {
+    "@wiris/mathtype-ckeditor5": "^7.21.0"
   }
 }
